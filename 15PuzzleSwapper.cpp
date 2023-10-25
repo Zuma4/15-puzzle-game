@@ -83,14 +83,14 @@ int main() {
     }
 }
 
-// show things 
+// show things (done)
 // create grid (done)
-// show grid 
+// show grid (done)
 // randomize grid (done)
 
 
 // user things
 // moving elements in grid (done)
 // winning if grid == winning grid (done)
-// randomize grid after winning 
+// randomize grid after winning (done)
 
